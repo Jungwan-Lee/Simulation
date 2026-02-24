@@ -13,3 +13,6 @@ For running, you need to run "Windows PowerShell"
 (1) LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator)
 a code performing simulations on classical particles -including, but not restricted to, molecular dynamics
 LAMMPS calculation is controlled by a script file, often called "in.something"
+
+(2) xsf
+xsf file can be opened in VESTA
