@@ -16,3 +16,5 @@ LAMMPS calculation is controlled by a script file, often called "in.something"
 
 (2) xsf
 xsf file can be opened in VESTA
+
+(3) cfg
