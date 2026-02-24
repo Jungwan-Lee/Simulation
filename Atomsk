@@ -3,4 +3,8 @@ For running, you need to run "Windows PowerShell"
   Examples are here: https://atomsk.univ-lille.fr/doc/en/mode_create.html, try Examples on the Windows PowerShell
   Once file generated, you can find the location by searching the file name
     For my case, data are stored in Jungwan Lee
+  When you copy-paste to excel, it will show up the data
 
+(1) LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator)
+a code performing simulations on classical particles -including, but not restricted to, molecular dynamics
+LAMMPS calculation is controlled by a script file, often called "in.something"
