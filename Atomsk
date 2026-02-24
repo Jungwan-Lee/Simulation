@@ -1,4 +1,5 @@
 Atomsk can offer options to duplicate atomic systems, introduce defects, construct crystals and polycrystals
+  Atomsk employs Voronoi tessellation method
 For running, you need to run "Windows PowerShell"
   Examples are here: https://atomsk.univ-lille.fr/doc/en/mode_create.html, try Examples on the Windows PowerShell
   Once file generated, you can find the location by searching the file name
