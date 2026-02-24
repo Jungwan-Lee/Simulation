@@ -18,3 +18,7 @@ LAMMPS calculation is controlled by a script file, often called "in.something"
 xsf file can be opened in VESTA
 
 (3) cfg
+
+(A) order format when create
+"atomsk --create fcc 4.046 Al lammps"
+  Herein, 4.046 means lattice parameter
